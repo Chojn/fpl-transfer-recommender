@@ -1,3 +1,9 @@
+"""
+Created on Sat Feb  2 15:02:55 2024
+
+@author: John Chui
+"""
+
 import requests
 
 def get_fpl_data():
